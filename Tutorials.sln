@@ -21,6 +21,28 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CaptureVideoFrameUsingCanva
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "55498"
+		SlnRelativePath = "CaptureVideoFrameUsingCanvas\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DragAndDropImagesToCanvas", "DragAndDropImagesToCanvas\", "{135843F0-4AF5-487B-AB8C-8F368E4D2749}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56257"
+		Debug.AspNetCompiler.PhysicalPath = "DragAndDropImagesToCanvas\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56257\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56257"
+		Release.AspNetCompiler.PhysicalPath = "DragAndDropImagesToCanvas\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56257\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56257"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -31,6 +53,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{6A0B7FAB-DAED-4A37-B2EC-FA471E7E2816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6A0B7FAB-DAED-4A37-B2EC-FA471E7E2816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135843F0-4AF5-487B-AB8C-8F368E4D2749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135843F0-4AF5-487B-AB8C-8F368E4D2749}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
