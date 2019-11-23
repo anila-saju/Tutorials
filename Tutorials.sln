@@ -43,6 +43,29 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DragAndDropImagesToCanvas",
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "56257"
+		SlnRelativePath = "DragAndDropImagesToCanvas\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PlayingAudioOnJavaScriptEvent", "PlayingAudioOnJavaScriptEvent\", "{FC7F19D7-4CBC-4F08-9FE4-5AB3298F1607}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56755"
+		Debug.AspNetCompiler.PhysicalPath = "PlayingAudioOnJavaScriptEvent\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56755\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56755"
+		Release.AspNetCompiler.PhysicalPath = "PlayingAudioOnJavaScriptEvent\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56755\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56755"
+		SlnRelativePath = "PlayingAudioOnJavaScriptEvent\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -55,6 +78,8 @@ Global
 		{6A0B7FAB-DAED-4A37-B2EC-FA471E7E2816}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{135843F0-4AF5-487B-AB8C-8F368E4D2749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{135843F0-4AF5-487B-AB8C-8F368E4D2749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC7F19D7-4CBC-4F08-9FE4-5AB3298F1607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC7F19D7-4CBC-4F08-9FE4-5AB3298F1607}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
